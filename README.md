@@ -17,6 +17,7 @@ Buat Database dengan nama `laravel` atau jika ingin custom ubah file `.env.examp
 
 
 - Silahkan Clone untuk pertama-tama ke local atau directory yang diinginkan
+- Seteladi clone , ikuti langkah dibawah ini
 
 ```
 composer install
